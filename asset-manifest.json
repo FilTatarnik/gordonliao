@@ -1,17 +1,17 @@
 {
-  "main.css": "/gordonliao/static/css/main.843242f2.chunk.css",
-  "main.js": "/gordonliao/static/js/main.9f4cb6db.chunk.js",
-  "main.js.map": "/gordonliao/static/js/main.9f4cb6db.chunk.js.map",
+  "main.css": "/gordonliao/static/css/main.d66b54cc.chunk.css",
+  "main.js": "/gordonliao/static/js/main.f0c6d841.chunk.js",
+  "main.js.map": "/gordonliao/static/js/main.f0c6d841.chunk.js.map",
   "static/css/1.3f53d860.chunk.css": "/gordonliao/static/css/1.3f53d860.chunk.css",
   "static/js/1.7f2a55af.chunk.js": "/gordonliao/static/js/1.7f2a55af.chunk.js",
   "static/js/1.7f2a55af.chunk.js.map": "/gordonliao/static/js/1.7f2a55af.chunk.js.map",
   "runtime~main.js": "/gordonliao/static/js/runtime~main.3d4fea90.js",
   "runtime~main.js.map": "/gordonliao/static/js/runtime~main.3d4fea90.js.map",
-  "static/media/mdb.css": "/gordonliao/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/media/mdb.css": "/gordonliao/static/media/Roboto-Medium.894a2ede.ttf",
   "static/media/all.min.css": "/gordonliao/static/media/fa-regular-400.7aaf5675.woff",
+  "static/css/main.d66b54cc.chunk.css.map": "/gordonliao/static/css/main.d66b54cc.chunk.css.map",
   "static/css/1.3f53d860.chunk.css.map": "/gordonliao/static/css/1.3f53d860.chunk.css.map",
-  "static/css/main.843242f2.chunk.css.map": "/gordonliao/static/css/main.843242f2.chunk.css.map",
   "index.html": "/gordonliao/index.html",
-  "precache-manifest.2ef8138ebc3c38f06f48ab1dd17c6bb4.js": "/gordonliao/precache-manifest.2ef8138ebc3c38f06f48ab1dd17c6bb4.js",
+  "precache-manifest.5fb4303b92a057b79c8098949954aaf6.js": "/gordonliao/precache-manifest.5fb4303b92a057b79c8098949954aaf6.js",
   "service-worker.js": "/gordonliao/service-worker.js"
 }
