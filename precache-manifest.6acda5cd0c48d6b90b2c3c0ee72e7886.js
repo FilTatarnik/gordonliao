@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "8d3b4abea888a1858a5d",
-    "url": "/gordonliao/static/css/main.a9fbd44f.chunk.css"
+    "revision": "70d794ae258acce17da1",
+    "url": "/gordonliao/static/css/main.0f6549d9.chunk.css"
   },
   {
     "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-regular-400.7aaf5675.woff"
   },
   {
-    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
-    "url": "/gordonliao/static/media/fa-regular-400.859001f6.eot"
-  },
-  {
     "revision": "f33342516f7cbe46f1d6b68f9e7bbeda",
     "url": "/gordonliao/static/media/fa-regular-400.f3334251.ttf"
+  },
+  {
+    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
+    "url": "/gordonliao/static/media/fa-regular-400.859001f6.eot"
   },
   {
     "revision": "9f4ce3dc689981a1b87faab0f5484f9e",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-solid-900.7726a281.svg"
   },
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "8d3b4abea888a1858a5d",
-    "url": "/gordonliao/static/js/main.8d3b4abe.chunk.js"
+    "revision": "70d794ae258acce17da1",
+    "url": "/gordonliao/static/js/main.70d794ae.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -100,12 +100,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Regular.30799efa.eot"
   },
   {
-    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
-    "url": "/gordonliao/static/media/Roboto-Bold.ecdd509c.eot"
-  },
-  {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
     "url": "/gordonliao/static/media/Roboto-Medium.4d9f3f9e.eot"
+  },
+  {
+    "revision": "ecdd509cadbf1ea78b8d2e31ec52328c",
+    "url": "/gordonliao/static/media/Roboto-Bold.ecdd509c.eot"
   },
   {
     "revision": "954bbdeb86483e4ffea00c4591530ece",
@@ -116,12 +116,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/gordonliao/static/media/Roboto-Regular.2751ee43.woff2"
-  },
-  {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/gordonliao/static/media/Roboto-Medium.574fd0b5.woff2"
+  },
+  {
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/gordonliao/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -168,7 +168,7 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/css/1.3f53d860.chunk.css"
   },
   {
-    "revision": "3c62a9bbccdea9fa10babeafb17c79ff",
+    "revision": "f81e6120d9d91cbc514837808b4b64fc",
     "url": "/gordonliao/index.html"
   }
 ];
