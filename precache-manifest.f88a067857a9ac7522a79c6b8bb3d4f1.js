@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "f0c6d841278deea11dd8",
-    "url": "/gordonliao/static/css/main.d66b54cc.chunk.css"
+    "revision": "039d3f9999c4507d1395",
+    "url": "/gordonliao/static/css/main.2c6a5e90.chunk.css"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/gordonliao/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/gordonliao/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "7f2a55af27d0bd471ae5",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-regular-400.7aaf5675.woff"
   },
   {
-    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
-    "url": "/gordonliao/static/media/fa-regular-400.859001f6.eot"
-  },
-  {
     "revision": "f33342516f7cbe46f1d6b68f9e7bbeda",
     "url": "/gordonliao/static/media/fa-regular-400.f3334251.ttf"
+  },
+  {
+    "revision": "859001f6ae8eb0bb3878aaa971b50fc6",
+    "url": "/gordonliao/static/media/fa-regular-400.859001f6.eot"
   },
   {
     "revision": "9f4ce3dc689981a1b87faab0f5484f9e",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-regular-400.da8a235b.svg"
   },
   {
-    "revision": "e2675a616b68f446fa6284c111554c7f",
-    "url": "/gordonliao/static/media/fa-solid-900.e2675a61.eot"
-  },
-  {
     "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
     "url": "/gordonliao/static/media/fa-solid-900.f14c3b2f.ttf"
+  },
+  {
+    "revision": "e2675a616b68f446fa6284c111554c7f",
+    "url": "/gordonliao/static/media/fa-solid-900.e2675a61.eot"
   },
   {
     "revision": "38975343b586296e9b73e6b56cc3ec5d",
@@ -80,12 +80,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-solid-900.7726a281.svg"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "f0c6d841278deea11dd8",
-    "url": "/gordonliao/static/js/main.f0c6d841.chunk.js"
+    "revision": "039d3f9999c4507d1395",
+    "url": "/gordonliao/static/js/main.039d3f99.chunk.js"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -120,12 +120,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
-    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
-    "url": "/gordonliao/static/media/Roboto-Bold.39b2c303.woff2"
-  },
-  {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/gordonliao/static/media/Roboto-Medium.574fd0b5.woff2"
+  },
+  {
+    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
+    "url": "/gordonliao/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
@@ -140,20 +140,16 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Regular.ba3dcd89.woff"
   },
   {
-    "revision": "dc81817def276b4f21395f7ea5e88dcd",
-    "url": "/gordonliao/static/media/Roboto-Bold.dc81817d.woff"
-  },
-  {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/gordonliao/static/media/Roboto-Medium.fc78759e.woff"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/gordonliao/static/media/Roboto-Light.46e48ce0.ttf"
+    "revision": "dc81817def276b4f21395f7ea5e88dcd",
+    "url": "/gordonliao/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/gordonliao/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/gordonliao/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "94998475f6aea65f558494802416c1cf",
@@ -164,11 +160,15 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/gordonliao/static/media/Roboto-Light.46e48ce0.ttf"
+  },
+  {
     "revision": "7f2a55af27d0bd471ae5",
     "url": "/gordonliao/static/css/1.3f53d860.chunk.css"
   },
   {
-    "revision": "a33ced85d238ae4f99ebecf4c8fea5c5",
+    "revision": "a1bcff6d10f15b0ccb909fe9cce518ff",
     "url": "/gordonliao/index.html"
   }
 ];
