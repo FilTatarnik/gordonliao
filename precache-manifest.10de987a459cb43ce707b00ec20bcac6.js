@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
+    "revision": "11911410dca2de148f30954eb2fd5eab",
+    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
   },
   {
-    "revision": "49c3bb824d4369aac224",
-    "url": "/gordonliao/static/css/main.0c2372cf.chunk.css"
+    "revision": "27c04becdc667f98537d",
+    "url": "/gordonliao/static/css/main.3730dfb8.chunk.css"
   },
   {
-    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
-    "url": "/gordonliao/static/media/Roboto-Medium.894a2ede.ttf"
+    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
+    "url": "/gordonliao/static/media/Roboto-Bold.e31fcf18.ttf"
   },
   {
     "revision": "1644fd4fbe9286813f67",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-regular-400.da8a235b.svg"
   },
   {
-    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
-    "url": "/gordonliao/static/media/fa-solid-900.f14c3b2f.ttf"
-  },
-  {
     "revision": "e2675a616b68f446fa6284c111554c7f",
     "url": "/gordonliao/static/media/fa-solid-900.e2675a61.eot"
+  },
+  {
+    "revision": "f14c3b2ff7c821a4c838debbffd6ad2d",
+    "url": "/gordonliao/static/media/fa-solid-900.f14c3b2f.ttf"
   },
   {
     "revision": "38975343b586296e9b73e6b56cc3ec5d",
@@ -80,12 +80,16 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/fa-solid-900.7726a281.svg"
   },
   {
-    "revision": "11911410dca2de148f30954eb2fd5eab",
-    "url": "/gordonliao/static/media/arrow_left.11911410.svg"
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/gordonliao/static/media/arrow_right.8ef6a08c.svg"
   },
   {
-    "revision": "49c3bb824d4369aac224",
-    "url": "/gordonliao/static/js/main.49c3bb82.chunk.js"
+    "revision": "27c04becdc667f98537d",
+    "url": "/gordonliao/static/js/main.27c04bec.chunk.js"
+  },
+  {
+    "revision": "dfe56a876d0282555d1e2458e278060f",
+    "url": "/gordonliao/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
     "revision": "a990f611f2305dc12965f186c2ef2690",
@@ -94,10 +98,6 @@ self.__precacheManifest = [
   {
     "revision": "30799efa5bf74129468ad4e257551dc3",
     "url": "/gordonliao/static/media/Roboto-Regular.30799efa.eot"
-  },
-  {
-    "revision": "dfe56a876d0282555d1e2458e278060f",
-    "url": "/gordonliao/static/media/Roboto-Thin.dfe56a87.eot"
   },
   {
     "revision": "4d9f3f9e5195e7b074bb63ba4ce42208",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Light.3b813c2a.woff"
   },
   {
-    "revision": "7500519de3d82e33d1587f8042e2afcb",
-    "url": "/gordonliao/static/media/Roboto-Thin.7500519d.woff"
-  },
-  {
     "revision": "ba3dcd8903e3d0af5de7792777f8ae0d",
     "url": "/gordonliao/static/media/Roboto-Regular.ba3dcd89.woff"
+  },
+  {
+    "revision": "7500519de3d82e33d1587f8042e2afcb",
+    "url": "/gordonliao/static/media/Roboto-Thin.7500519d.woff"
   },
   {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
@@ -148,27 +148,27 @@ self.__precacheManifest = [
     "url": "/gordonliao/static/media/Roboto-Bold.dc81817d.woff"
   },
   {
-    "revision": "df7b648ce5356ea1ebce435b3459fd60",
-    "url": "/gordonliao/static/media/Roboto-Regular.df7b648c.ttf"
+    "revision": "94998475f6aea65f558494802416c1cf",
+    "url": "/gordonliao/static/media/Roboto-Thin.94998475.ttf"
   },
   {
     "revision": "46e48ce0628835f68a7369d0254e4283",
     "url": "/gordonliao/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
-    "revision": "e31fcf1885e371e19f5786c2bdfeae1b",
-    "url": "/gordonliao/static/media/Roboto-Bold.e31fcf18.ttf"
+    "revision": "df7b648ce5356ea1ebce435b3459fd60",
+    "url": "/gordonliao/static/media/Roboto-Regular.df7b648c.ttf"
   },
   {
-    "revision": "94998475f6aea65f558494802416c1cf",
-    "url": "/gordonliao/static/media/Roboto-Thin.94998475.ttf"
+    "revision": "894a2ede85a483bf9bedefd4db45cdb9",
+    "url": "/gordonliao/static/media/Roboto-Medium.894a2ede.ttf"
   },
   {
     "revision": "1644fd4fbe9286813f67",
     "url": "/gordonliao/static/css/1.def8cae4.chunk.css"
   },
   {
-    "revision": "67c4930c55cda23b44f54f2fa202ad71",
+    "revision": "111eb5a5372291ec78e76dcb35d652f5",
     "url": "/gordonliao/index.html"
   }
 ];
