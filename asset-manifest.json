@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.b9ea40ef.chunk.css",
-  "main.js": "/static/js/main.10d7179a.chunk.js",
-  "main.js.map": "/static/js/main.10d7179a.chunk.js.map",
+  "main.css": "/static/css/main.91449588.chunk.css",
+  "main.js": "/static/js/main.26519967.chunk.js",
+  "main.js.map": "/static/js/main.26519967.chunk.js.map",
   "static/css/1.bc479ba4.chunk.css": "/static/css/1.bc479ba4.chunk.css",
   "static/js/1.16334222.chunk.js": "/static/js/1.16334222.chunk.js",
   "static/js/1.16334222.chunk.js.map": "/static/js/1.16334222.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/all.min.css": "/static/media/fa-solid-900.7726a281.svg",
   "static/media/mdb.css": "/static/media/Roboto-Bold.e31fcf18.ttf",
+  "static/css/main.91449588.chunk.css.map": "/static/css/main.91449588.chunk.css.map",
   "static/css/1.bc479ba4.chunk.css.map": "/static/css/1.bc479ba4.chunk.css.map",
-  "static/css/main.b9ea40ef.chunk.css.map": "/static/css/main.b9ea40ef.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.05a1f3ddf55b28e42bc0ed0590674502.js": "/precache-manifest.05a1f3ddf55b28e42bc0ed0590674502.js",
+  "precache-manifest.51a0228b615a8c53d0754027a5ea3005.js": "/precache-manifest.51a0228b615a8c53d0754027a5ea3005.js",
   "service-worker.js": "/service-worker.js"
 }
